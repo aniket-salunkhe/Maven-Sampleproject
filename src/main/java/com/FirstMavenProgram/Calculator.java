@@ -1,4 +1,4 @@
-package com.SecondMavenProject;
+package com.FirstMavenProgram;
 
 public class Calculator {
 
